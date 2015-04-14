@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/e-font-size.feature_0.0.0.jar" id="e-font-size.feature" version="0.0.0">
+    <category name="e-font-size"/>
+   </feature>
+   <feature url="features/e-font-size.feature.source_0.0.0.jar" id="e-font-size.feature.source" version="0.0.0">
+    <category name="e-font-size Developer Resources"/>
+   </feature>
+</site>

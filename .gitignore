@@ -1,4 +1,9 @@
+.classpath
+.project
+.settings/
+.DS_Store
 target/
+bin/
 pom.xml.tag
 pom.xml.releaseBackup
 pom.xml.versionsBackup
